@@ -1,4 +1,6 @@
-# Image Restoration Using UNET Model
+# Intel Unnati training program 
+
+## Image Restoration Using UNET Model
 
 This repository contains the code and resources for an image restoration project using a UNET model. The goal of this project is to restore blurred images to their original sharpness using deep learning techniques.
 
@@ -39,5 +41,6 @@ Make sure you have the following installed on your system:
    ```sh
    python interface.py
 
-# other approach
+## other approach
+
 Run model2.py for direct execution and ouput.
